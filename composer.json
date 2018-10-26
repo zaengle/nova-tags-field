@@ -1,5 +1,5 @@
 {
-    "name": "spatie/nova-tags-field",
+    "name": "zaengle/nova-tags-field",
     "description": "A tags field for Nova apps",
     "keywords": [
         "laravel",
@@ -15,7 +15,7 @@
             "url" : "git@github.com:zaengle/laravel-tags.git"
         }
     ],
-    "homepage": "https://github.com/spatie/nova-tags-field",
+    "homepage": "https://github.com/zaengle/nova-tags-field",
     "license": "MIT",
     "authors": [
         {
